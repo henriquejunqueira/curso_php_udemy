@@ -94,6 +94,6 @@
         </nav>
       </div>
     </main>
-    <footer class="rodape">COD3R & Henrique Junqueira © 2025</footer>
+    <footer class="rodape">COD3R & Henrique Junqueira © <?= date('Y')?></footer>
   </body>
 </html>
